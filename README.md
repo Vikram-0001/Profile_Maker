@@ -1,4 +1,4 @@
-<h1Project Overview</h1>  
+<h1>Project Overview</h1>  
 • It is Next.js web dev application that help users to write a job cover letter, Interview preparation and Build 
 Resume. a Next.js project that helps users create resumes, prepare for interviews, and write job cover letters 
 using the Gemini AI API. It addresses real-world job search challenges by making the process easier and more 
