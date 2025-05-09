@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Project Overview</h1>  
 • It is Next.js web dev application that help users to write a job cover letter, Interview preparation and Build 
 Resume. a Next.js project that helps users create resumes, prepare for interviews, and write job cover letters 
