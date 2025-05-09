@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Project Overview</h1>  
 • It is Next.js web dev application that help users to write a job cover letter, Interview preparation and Build 
 Resume. a Next.js project that helps users create resumes, prepare for interviews, and write job cover letters 
@@ -20,3 +21,6 @@ data storage and retrieval.
 generation, providing AI-driven assistance to users. 
 4. Industry Insights and Growth Tools – Weekly Updates on job trends and market insights help users stay 
 ahead, while a dedicated growth tool button enhances career development.
+=======
+# Profile_Maker
+>>>>>>> 03f190996a8d364136d927389d528af67f829116
